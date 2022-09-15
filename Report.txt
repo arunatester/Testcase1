@@ -6,3 +6,5 @@ when click the submit button
 And user login the face book home page
 Then user read the massages.
 and User need to take screen shot.
+adding the vedios play
+adding the audio play
