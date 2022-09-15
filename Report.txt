@@ -1,0 +1,7 @@
+test case 1:
+feature: open google.com
+senior: search facebook page
+given Enter user name and password
+when click the submit button
+And user login the face book home page
+Then user read the massages.
