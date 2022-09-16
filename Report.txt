@@ -8,3 +8,4 @@ Then user read the massages.
 and User need to take screen shot.
 adding the vedios play
 adding the audio play
+attached fetures added.
